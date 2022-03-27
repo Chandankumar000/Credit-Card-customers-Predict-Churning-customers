@@ -22,3 +22,4 @@ Analyse the data and predict who is going to get churned So that we can proactiv
 * The risk of customers leaving is higher for the customers who have been with the bankfor 20-50 month.
 * The lesser the activity on the customers card the higher the chance of attrition.
 * The lesser utilization on the customers card the higher the Attrition cahnces.
+* In Female Income <40k and Male b/w 80k-120k High chances for Attrition.
