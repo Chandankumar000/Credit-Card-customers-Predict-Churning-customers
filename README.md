@@ -19,7 +19,7 @@ Analyse the data and predict who is going to get churned So that we can proactiv
 * The Possibility of customers churning b/w the Age range 40-50 year.
 * The possibility of a Female customers attriting is higher then Male customer.
 * The risk of attrition is higher for the customers Who are Doctorated and Post-Graduated as compare to others.
-* The risk of customers leaving is higher for the customers who have been with the bankfor 20-50 month.
+* The risk of customers leaving is higher for the Card Type in Platinum.
 * The lesser the activity on the customers card the higher the chance of attrition.
 * The lesser utilization on the customers card the higher the Attrition cahnces.
 * In Female Income <40k and Male b/w 80k-120k High chances for Attrition.
